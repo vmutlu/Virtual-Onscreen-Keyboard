@@ -1,0 +1,14 @@
+p {
+    font-family: Lato;
+  }
+  
+  
+  input {
+    font-size: 25px;
+    margin-bottom: 20px;
+    border: solid 1px #ddd;
+    border-radius: 4px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+  }
